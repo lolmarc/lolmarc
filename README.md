@@ -15,7 +15,8 @@ def lolmarc():
     
 def technologies():
         backEnd: ["php", "c++", "python"]
-        database: ["mySql"]
+        database: ["mySql"]      Cancel changes
 
-challenge = "I'm doing the #100DaysOfCode challenge focused on python"
+
+challenge = "eJPTv2 - elearnsecurity"
 ```
